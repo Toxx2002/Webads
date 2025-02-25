@@ -124,7 +124,7 @@ transform: rotate(90deg);
   position: absolute;
   bottom: 60px;
 }.a{
-  color: white;
+  color: black;
      animation-name: drink;
   animation-duration: 5s;
   animation-fill-mode: both ;
